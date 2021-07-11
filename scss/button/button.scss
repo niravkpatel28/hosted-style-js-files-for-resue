@@ -1,0 +1,13 @@
+// this is the main button file, all the other files will be imported here
+@import "variables";
+
+.button {
+  background-color: $button-background;
+  color: $text-color;
+  border-radius: $button-radius;
+  width: $button-width;
+  padding: $button-padding;
+  border: none;
+  font-weight: bold;
+  font-size: $font-size;
+}

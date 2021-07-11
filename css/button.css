@@ -1,0 +1,18 @@
+/*
+* #17252A 
+* #2B7A78
+* #3AAFA9
+* #DEF2F1
+* #FEFFFF
+https://www.awwwards.com/sites/serio-verify
+*/
+.button {
+  background-color: #17252a;
+  color: #feffff;
+  border-radius: 1rem;
+  width: 8rem;
+  padding: 8px;
+  border: none;
+  font-weight: bold;
+  font-size: 1rem;
+}
